@@ -12,4 +12,8 @@
     <color name="normal">#FFFFFF</color>
     <color name="accent">#60ebe1</color>
     <color name="pink">#fd6fff</color>
+    <color name="colorPrimary">#13FF02</color>
+    <color name="colorPrimaryDark">#00E676</color>
+    <color name="colorAccent">#76FF03</color>
+
 </resources>
